@@ -11,11 +11,12 @@
 | `C-c,M-f` | open **include** file in same folder |
 | `M-;` | **comment** code (C-c,C-c) |
 | `M-%, <a>, RET, <b>, !` | **replace** a with b |
+| `C-M-%, <a>, RET, <b>, !` | **regex** replace a with b |
 | `M-/` | complete **snippet** (or C-p) |
 | `M-m,t,n` | toggle **line numbers** |
 | `C-M-\` | **indent** region TAB-right |
 | `C-x, TAB`  | **indent** manually with spaces |
-| `SPC,h,k` | run **make** in current folder |
+| `SPC,h,k` | run **make** in current folder, long press mouse - follow |
 | `C-c,.` | change C-code **style** |
 | `M--,f` | **find** in files |
 | `M--,/` | **find** in project |
