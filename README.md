@@ -23,7 +23,7 @@ key | desc
  `SPC` | replace one occurence
  `DEL` | skip one occurance
  `SPC,h,k` | run **make** in current folder 
- `long press mouse` | follow 
+ `LMB...` | follow (long press left mouse button)
  `C-c,.` | change C-code **style** 
  `M-]` | show **references** 
  `M--,f` | **find** in files 
