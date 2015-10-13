@@ -10,7 +10,8 @@ key | desc
  `M-RET, r` | **refactor** 
  `SPC,m,g,a` | swith between **h/cpp** 
  `SPC,m,g,A` | h/cpp in other window 
- `C-c,M-f` | open **include** file in same folder 
+ `C-c,p,g` | open **include** file in project
+ `C-c,M-f` | open include file in same folder 
  `M-;` | **comment** code (C-c,C-c) 
  `M-m,t,n` | toggle **line numbers** 
  `C-M-\` | **indent** region TAB-right 
