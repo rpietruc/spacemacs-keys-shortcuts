@@ -20,7 +20,7 @@ key | desc
  `M-m,p,R` | replace in project 
  `!` | replace all occurences
  `SPC` | replace one occurence
-  DEL | skip one occurance
+ `DEL` | skip one occurance
  `SPC,h,k` | run **make** in current folder 
  `long press mouse` | follow 
  `C-c,.` | change C-code **style** 
