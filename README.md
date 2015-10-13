@@ -18,7 +18,8 @@ key | desc
  `M-%` | **replace** 
  `C-M-%` | **regex** replace 
  `M-m,p,R` | replace in project 
- `!` | replace all occurences 
+ `!` | replace all occurences
+ `SPC` | replace one occurence
  `SPC,h,k` | run **make** in current folder 
  `long press mouse` | follow 
  `C-c,.` | change C-code **style** 
