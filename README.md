@@ -23,7 +23,7 @@ key | desc
 `SPC` | replace one occurence
 `DEL` | skip one occurance
 `SPC,h,k` | run **make** in current folder 
-`M,<n>,SPC,h,k` | run make -j<n> **jobs** 
+`M,<n>,SPC,h,k` | run make -j\<n> **jobs** 
 `LMB...` | follow (long press left mouse button)
 `C-c,.` | change C-code **style** 
 `M-]` | show **references** 
