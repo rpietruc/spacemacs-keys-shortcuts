@@ -6,7 +6,8 @@ key | desc
 `M-RET,g,d` | go to **definition** 
 `SPC,f,g`    | **rgrep**       
 `M-RET,g,f` | **search** for file or directory 
-`M-/`        | complete **snippet** (or C-p) 
+`M-/`        | complete **snippet** (or C-p)
+`TAB`        | jump to next snippet parameter
 `M-RET, r` | **refactor** 
 `SPC,m,g,a` | swith between **h/cpp** 
 `SPC,m,g,A` | h/cpp in other window 
