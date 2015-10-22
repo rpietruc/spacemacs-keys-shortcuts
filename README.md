@@ -16,8 +16,8 @@ key | desc
 `M-;` | **comment** code (C-c,C-c) 
 `M-m,t,n` | toggle **line numbers** 
 `C-M-\` | **indent** region TAB-right 
-`C-x, TAB`  | **indent** manually with spaces 
-`M-%` | **replace** 
+`C-x, TAB`  | **indent** manually with spaces
+`M-%` | **replace**
 `C-M-%` | **regex** replace 
 `M-m,p,R` | replace in project 
 `!` | replace all occurences
@@ -61,7 +61,8 @@ key | desc
 `C-c,C-v,e` | explain error at point 
 `C-v,C-v,.` | select context with '.' and ',' 
 `SPC,g,s` | **git** status 
-`s` | stage file (from git status) 
+`d d` | show diff
+`s` | stage file 
 `K` | discard modification 
 `SPC,g,C` | commit 
 `C-c.C-c` | execute commit 
