@@ -46,7 +46,8 @@ key | desc
 `R, <new>, RET` | rename file to new 
 `C, <new>, RET` | copy file to new 
 `D` | delete marked files 
-`!` | run cmd with that file as argument 
+`!` | run cmd with that file as argument
+`C-c,C-c` | send SIGINT to running program
 `i` | open subdirectory below 
 `$` | fold/unfold subdirectory below 
 `M-x ensime` | run **ensime** server 
