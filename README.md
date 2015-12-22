@@ -51,7 +51,8 @@ key | desc
 `i` | open subdirectory below 
 `$` | fold/unfold subdirectory below 
 `M-x ensime` | run **ensime** server 
-`M-RET,h,h` | show doc 
+`C-c,C-r,t` | auto import 
+`M-RET,h,h` | show doc
 `C-c,C-v,i` | documentation 
 `C-c,C-v,s` | **sbt** 
 `M-RET,b,r` | sbt run 
