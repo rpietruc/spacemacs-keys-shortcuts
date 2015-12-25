@@ -5,7 +5,8 @@ key | desc
 `M-RET,g,c` | create **tags**
 `M-RET,g,d` | go to **definition** 
 `SPC,f,g`    | **rgrep**       
-`M-RET,g,f` | **search** for file or directory 
+`M-RET,g,f` | **search** for file or directory
+`C-x,C-f,C-f` | create new file
 `M-/`        | complete **snippet** (or C-p)
 `TAB`        | jump to next snippet parameter
 `M-RET, r` | **refactor** 
