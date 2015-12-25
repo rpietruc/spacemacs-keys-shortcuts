@@ -6,7 +6,6 @@ key | desc
 `M-RET,g,d` | go to **definition** 
 `SPC,f,g`    | **rgrep**       
 `M-RET,g,f` | **search** for file or directory
-`C-x,C-f,C-f` | create new file
 `M-/`        | complete **snippet** (or C-p)
 `TAB`        | jump to next snippet parameter
 `M-RET, r` | **refactor** 
@@ -71,7 +70,7 @@ key | desc
 `C-c.C-c` | execute commit 
 `SPC,g,g,B` | gist file 
 `M-m,g,b` | git blame 
-`C-x-C-f <filename> RET` | create **file** 
+`C-x-C-f-C-f <filename> RET` | create **file** 
 `C-x-C-v, RET` | reload file 
 `C-x-C-w` | write file 
 `M-x text mode` | **text mode** 
