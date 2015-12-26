@@ -1,0 +1,27 @@
+;; layers
+auto-completion
+better-defaults
+c-c++
+csharp
+emacs-lisp
+ensime
+extra-langs
+fsharp
+git
+gtags
+haskell
+markdown
+org
+scala
+semantic
+spell-checking
+syntax-checking
+version-control
+
+;; themes
+dotspacemacs-themes '(monokai zenbur solarized-dark spacemacs-dark solarized-light spacemacs-light leuvenn)
+
+;; user init
+(setq c-default-style "java")
+(setq dired-dwim-target t)
+(setq helm-make-command "make -j10 %s")
