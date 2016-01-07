@@ -33,7 +33,8 @@ key | desc
 `M-m,f,t` | toggle **tree view** 
 `K` | tree view directory up 
 `|` | tree view vertical split 
-`C-x,d` | **directory** mode 
+`C-x,d` | **directory** mode
+`M-x find-name-dired` | find file or dir. recursively
 `g` | refresh 
 `m` | mark file 
 `u` | unmark file 
