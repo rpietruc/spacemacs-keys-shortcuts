@@ -57,6 +57,7 @@ key | desc
 `C-c,C-v,i` | documentation 
 `C-c,C-v,s` | **sbt** 
 `M-RET,b,r` | sbt run 
+`C-c,C-v,RET` | stop sbt command
 `C-c C-v,r` | symbol uses 
 `C-c,C-v,v` | symbol search 
 `M-RET,g,g` | goto definition 
