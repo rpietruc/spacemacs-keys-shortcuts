@@ -2,6 +2,9 @@
 
 key | desc
 ---|---
+`",*,y` | copy to clipboard
+`",*,c` | cut to clipboard
+`",*,p` | paste from clipboard
 `M-RET,g,c` | create **tags**
 `M-RET,g,d` | go to **definition** 
 `SPC,f,g`    | **rgrep**       
