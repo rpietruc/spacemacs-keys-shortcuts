@@ -2,6 +2,7 @@
 
 key | desc
 ---|---
+`<F10>` | show graphical menu
 `",*,y` | copy to clipboard
 `",*,c` | cut to clipboard
 `",*,p` | paste from clipboard
