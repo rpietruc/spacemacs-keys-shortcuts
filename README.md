@@ -8,6 +8,7 @@ key | desc
 `",*,p` | paste from clipboard
 `M-RET,g,c` | create **tags**
 `M-RET,g,d` | go to **definition** 
+`C-o` | go back 
 `SPC,f,g`    | **rgrep**       
 `M-RET,g,f` | **search** for file or directory
 `M-/`        | complete **snippet** (or C-p)
