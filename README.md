@@ -10,7 +10,7 @@ key | desc
 `M-RET,g,d` | go to **definition** 
 `C-o` | go back
 `C-s` | search
-`M-s .` | search word under cursor
+`M-s,.` | search word under cursor
 `SPC,f,g`    | **rgrep**       
 `M-RET,g,f` | **search** for file or directory
 `M-/`        | complete **snippet** (or C-p)
@@ -95,6 +95,7 @@ key | desc
 `C-x, C-b` | show all buffers 
 `SPC,<n>` | **window** n 
 `C-w-C-w` | next window 
+`C-w,o` | maximize window
 `C-x,0` | close window 
 `C-x,2` | **split** up-down 
 `C-x,3` | split left-right 
