@@ -8,7 +8,9 @@ key | desc
 `",*,p` | paste from clipboard
 `M-RET,g,c` | create **tags**
 `M-RET,g,d` | go to **definition** 
-`C-o` | go back 
+`C-o` | go back
+`C-s` | search
+`M-s .` | search word under cursor
 `SPC,f,g`    | **rgrep**       
 `M-RET,g,f` | **search** for file or directory
 `M-/`        | complete **snippet** (or C-p)
@@ -43,6 +45,7 @@ key | desc
 `M-x find-name-dired` | find file or dir. recursively
 `C-x,C-f,C-f /ssh:<user>@<host>:/<path>` | open remote file/dir.
 `m` | mark file 
+`g` | refresh directory
 `u` | unmark file 
 `^` | directory up 
 `+` | mkdir |
