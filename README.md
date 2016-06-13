@@ -42,7 +42,6 @@ key | desc
 `|` | tree view vertical split 
 `C-x,d` | **directory** mode
 `M-x find-name-dired` | find file or dir. recursively
-`M-x find-name-dired` | find file or dir. recursively
 `C-x,C-f,C-f /ssh:<user>@<host>:/<path>` | open remote file/dir.
 `m` | mark file 
 `g` | refresh directory
