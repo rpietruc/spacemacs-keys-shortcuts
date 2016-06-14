@@ -10,6 +10,7 @@ key | desc
 `, g-` | **tags**
 `C-o` | go back
 `C-s` | search
+`C-s C-w M-%` | replace marked text
 `M-s,.` | search word under cursor
 `SPC,f,g`    | **rgrep**       
 `M-RET,g,f` | **search** for file or directory
