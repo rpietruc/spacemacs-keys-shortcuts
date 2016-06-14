@@ -6,8 +6,8 @@ key | desc
 `",*,y` | copy to clipboard
 `",*,c` | cut to clipboard
 `",*,p` | paste from clipboard
-`M-RET,g,c` | create **tags**
-`M-RET,g,d` | go to **definition** 
+`M-RET g-` | **tags**
+`, g-` | **tags**
 `C-o` | go back
 `C-s` | search
 `M-s,.` | search word under cursor
