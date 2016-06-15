@@ -8,6 +8,7 @@ key | desc
 `",*,p` | paste from clipboard
 `M-RET g-` | **tags**
 `, g-` | **tags**
+`C-c p-` | **projectile**
 `C-o` | go back
 `C-s` | search
 `C-s C-w M-%` | replace marked text
