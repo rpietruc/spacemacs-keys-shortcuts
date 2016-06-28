@@ -46,6 +46,7 @@ key | desc
 `M-x find-name-dired` | find file or dir. recursively
 `C-x,C-f,C-f /ssh:<user>@<host>:/<path>` | open remote file/dir.
 `m` | mark file 
+`t` | mark/umark all (toggle) 
 `g` | refresh directory
 `u` | unmark file 
 `^` | directory up 
