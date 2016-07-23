@@ -6,6 +6,7 @@ key | desc
 `",*,y` | copy to clipboard
 `",*,c` | cut to clipboard
 `",*,p` | paste from clipboard
+`SPC,s,e` | multiline edit
 `M-RET g-` | **tags**
 `, g-` | **tags**
 `C-c p-` | **projectile**
