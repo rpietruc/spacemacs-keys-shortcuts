@@ -17,7 +17,7 @@ key | desc
 `SPC,f,g`    | **rgrep**       
 `M-RET,g,f` | **search** for file or directory
 `M-/`        | complete **snippet** (or C-p)
-`C-j`        | complete **HTML** snippet
+`C-j` or `TAB` | complete **HTML** snippet (Emmet)
 `TAB`        | jump to next snippet parameter
 `M-RET, r` | **refactor**
 `SPC,m,g,a` | swith between **h/cpp** 
