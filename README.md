@@ -17,8 +17,9 @@ key | desc
 `SPC,f,g`    | **rgrep**       
 `M-RET,g,f` | **search** for file or directory
 `M-/`        | complete **snippet** (or C-p)
+`C-j`        | complete **HTML** snippet
 `TAB`        | jump to next snippet parameter
-`M-RET, r` | **refactor** 
+`M-RET, r` | **refactor**
 `SPC,m,g,a` | swith between **h/cpp** 
 `SPC,m,g,A` | h/cpp in other window 
 `C-c,p,g` | open **include** file in project
