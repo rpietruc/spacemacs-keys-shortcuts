@@ -12,6 +12,7 @@ key | desc
 `C-c p-` | **projectile**
 `C-o` | go back
 `C-s` | search
+`C-s` | search backward
 `C-s C-w M-%` | replace marked text
 `M-s,.` | search word under cursor
 `SPC,f,g`    | **rgrep**       
