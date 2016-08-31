@@ -11,7 +11,8 @@ key | desc
 `, g-` | **tags**
 `C-c p-` | **projectile**
 `C-o` | go back
-`C-s` | search
+`C-s` | **search**
+`M-c` | change search case
 `C-r` | search backward
 `C-s C-w M-%` | replace marked text
 `M-s,.` | search word under cursor
