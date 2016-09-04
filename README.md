@@ -11,6 +11,7 @@ key | desc
 `, g-` | **tags**
 `, s-` | **statistics** (R)
 `C-c p-` | **projectile**
+`C-c p s g` | projectile grep
 `C-o` | go back
 `C-s` | **search**
 `M-c` | change search case
