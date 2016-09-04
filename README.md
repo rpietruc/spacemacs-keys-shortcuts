@@ -3,6 +3,7 @@
 key | desc
 ---|---
 `<F10>` | show graphical menu
+`C-u` | scroll up
 `" * y` | copy to clipboard
 `" * c` | cut to clipboard
 `" * p` | paste from clipboard
