@@ -7,6 +7,7 @@ key | desc
 `" * y` | copy to clipboard
 `" * c` | cut to clipboard
 `" * p` | paste from clipboard
+`Shit+Insert` | paste (Windows)
 `SPC s e` | multiline edit
 `M-RET g-` | **tags**
 `, g-` | **tags**
